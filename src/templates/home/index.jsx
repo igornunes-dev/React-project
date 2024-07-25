@@ -28,7 +28,7 @@ class Home extends Component {
       allPosts: postsAndPhotos
     });
   };
-
+  
   loadMorePosts = () => {
      const {
       page,
